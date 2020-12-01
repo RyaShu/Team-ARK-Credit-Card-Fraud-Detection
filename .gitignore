@@ -2,3 +2,4 @@
 .DS_Store
 *.csv
 src/.ipynb_checkpoints/linear_models-checkpoint.ipynb
+src/.ipynb_checkpoints/tree_models-checkpoint.ipynb
